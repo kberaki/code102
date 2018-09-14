@@ -1,0 +1,27 @@
+body {
+    background: lightgreen;
+}
+h2{
+    color:rgb(153, 90, 8);
+}
+#title{
+color: purple;
+}
+.hour{
+    color: blue;
+    font-weight: bold;
+}
+p{
+    font-size: 36px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    
+}
+h2{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    text-align: center;
+    background: rgba(0 0 rgb(0, 183, 255), 1);
+}
