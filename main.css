@@ -2,7 +2,10 @@ body {
     background: lightgreen;
 }
 h2{
-    color:rgb(153, 90, 8);
+    color:rgb(64, 8, 153);
+    text-align: center;
+    background-color: yellow;
+    font-size: 50px;
 }
 #title{
 color: purple;
@@ -18,12 +21,15 @@ p{
 h1{
     font-family: 'Londrina Shadow', cursive;
     text-align: center;
-    font-size: 75px;
+    font-size: 85px;
     
 }
-h2{
+h3{
     display: inline;
     padding: 0px 10px 0px 10px;
     text-align: center;
     background: rgba(0 0 rgb(0, 183, 255), 1);
+}
+img{
+    border-image: 10ch
 }
